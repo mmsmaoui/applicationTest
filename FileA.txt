@@ -1,0 +1,3 @@
+THis is File A
+This is a change 
+making a new changes
